@@ -1,16 +1,40 @@
-### Hi there 👋
+<p align="center">
+<!--   <img align="center" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/avatar.png" height="auto" width="256" alt="Profile picture">
+  <br> -->
+  <br>
+  <samp>hi there</samp>
+  <br>
+  <samp>
+    <a href="https://twitter.com/@ABsatomi159">twitter</a> •
+    <a href="https://twitch.tv/absatomigameyt">twitch</a> 
+  </samp>
+  <br>
+  <br>
+  <img alt="counter" src="https://komarev.com/ghpvc/?username=ABsatomiGamerYT&color=blue&label=views">
+  <br>
+</p>
 
-<!--
-**ABsatomiGamerYT/ABsatomiGamerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>
+    <samp>stats</samp>
+  </summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABsatomiGamerYT&theme=dark">
+</details>
+<details>
+  <summary>
+    <samp>software/languages</samp>
+  </summary>
+  <br>
+  <!-- 
+  iirc you could do something like ../master/assets/windows.png but just 
+  in case i'll use the entire raw.githubusercontent.com URL lol
+  -->
+  <img width=22 height="auto" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/java.png" />
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a src="https://discord.com/users/302974869988179969">
+    <img align="center" src="https://lanyard.cnrad.dev/api/302974869988179969"/>
+  </a> 
+</p>
