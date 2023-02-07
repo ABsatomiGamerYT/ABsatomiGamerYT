@@ -26,7 +26,11 @@
     <samp>software/languages</samp>
   </summary>
   <br>
-  <img width=22 height="auto" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/java.png" />
+  <!-- 
+  iirc you could do something like ../master/assets/windows.png but just 
+  in case i'll use the entire raw.githubusercontent.com URL lol
+  -->
+  <img width=22 height="auto" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/javascript.png" />
 </details>
 
 <p align="center">
