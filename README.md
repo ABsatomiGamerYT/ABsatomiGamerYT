@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <samp>hi there</samp>
+  <samp>Mis redes</samp>
   <br>
   <samp>
     <a href="https://twitter.com/@ABsatomi159">twitter</a> •
