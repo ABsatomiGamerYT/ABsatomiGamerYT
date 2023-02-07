@@ -32,7 +32,7 @@
 </details>
 
 <p align="center">
-  <a src="https://discord.com/users/302974869988179969">
-    <img align="center" src="https://lanyard.cnrad.dev/api/302974869988179969"/>
+  <a src="https://discord.com/users/447902653842980875">
+    <img align="center" src="https://lanyard.cnrad.dev/api/447902653842980875"/>
   </a> 
 </p>
