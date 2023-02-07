@@ -1,6 +1,4 @@
 <p align="center">
-<!--   <img align="center" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/avatar.png" height="auto" width="256" alt="Profile picture">
-  <br> -->
   <br>
   <samp>hi there</samp>
   <br>
