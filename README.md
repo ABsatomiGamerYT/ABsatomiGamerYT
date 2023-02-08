@@ -32,5 +32,3 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/302974869988179969"/>
   </a> 
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/302974869988179969)](https://discord.com/users/302974869988179969)
