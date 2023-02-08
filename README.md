@@ -27,4 +27,10 @@
   <img width=22 height="auto" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/javascript.png" />
 </details>
 
+<p align="center">
+  <a src="https://discord.com/users/302974869988179969">
+    <img align="center" src="https://lanyard.cnrad.dev/api/302974869988179969"/>
+  </a> 
+</p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/302974869988179969)](https://discord.com/users/302974869988179969)
