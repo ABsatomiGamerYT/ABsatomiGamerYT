@@ -9,7 +9,7 @@
   <samp>Mis redes</samp>
   <br>
   <samp>
-    <a href="https://twitter.com/@ABsatomi159">twitter</a> •
+    <a href="https://twitter.com/@DarckBlackYT">twitter</a> •
     <a href="https://twitch.tv/absatomigameyt">twitch</a> 
   </samp>
   <br>
