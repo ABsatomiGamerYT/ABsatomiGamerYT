@@ -29,6 +29,18 @@
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABsatomiGamerYT&theme=dracula&column=7" alt="ABsatomiGamerYT" /></a> </p>
 
+<details>
+  <summary>
+    <samp>software/languages</samp>
+  </summary>
+  <br>
+  <!-- 
+  iirc you could do something like ../master/assets/windows.png but just 
+  in case i'll use the entire raw.githubusercontent.com URL lol
+  -->
+  <img width=22 height="auto" src="https://raw.githubusercontent.com/ABsatomiGamerYT/ABsatomiGamerYT/master/assets/javascript.png" />
+</details>
+
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ABsatomiGamerYT&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
