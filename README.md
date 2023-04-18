@@ -18,6 +18,9 @@
   <br>
 </p>
 
+<!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABsatomiGamerYT&theme=dracula&column=7" alt="ABsatomiGamerYT" /></a> </p>
+
 - 🏙 Developer [Community](https://github.com/ABsatomiGamerYT/HEART) organization
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
