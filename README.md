@@ -1,3 +1,6 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
+
 <p align="center">
   <br>
   <samp>Mis redes</samp>
