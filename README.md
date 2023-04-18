@@ -23,7 +23,7 @@
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ABsatomiGamerYT&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ABsatomiGamerYT&layout=compact&theme=gotham&langs_count=8"/>
 </div>
-
+</p>
 
 <p align="center">
   <a src="https://discord.com/users/302974869988179969">
