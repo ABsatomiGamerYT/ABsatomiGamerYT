@@ -18,7 +18,7 @@
   <br>
 </p>
 
-> 🏙 Developer [Community](https://github.com/ABsatomiGamerYT/HEART) organization
+> 🏙 Developer [Community](https://github.com/ABsatomiGamerYT/[HEART](https://github.com/AB-HEART)) organization
 
 <p align="center">
   <a src="https://discord.com/users/302974869988179969">
