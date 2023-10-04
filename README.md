@@ -10,7 +10,7 @@
   <br>
   <samp>
     <a href="https://twitter.com/@DarckBlackYT">twitter</a> •
-    <a href="https://twitch.tv/absatomigameyt">twitch</a> 
+    <a href="https://twitch.tv/absatomi159">twitch</a> 
   </samp>
   <br>
   <br>
