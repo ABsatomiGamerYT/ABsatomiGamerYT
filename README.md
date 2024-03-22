@@ -1,8 +1,8 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/ABsatomi159/ABsatomi159/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
+<img src="https://github.com/ABsatomi159/ABsatomi159/raw/main/assets/banner-header.gif">
 
 <p align="center">
   <br>
@@ -14,7 +14,7 @@
   </samp>
   <br>
   <br>
-  <img alt="counter" src="https://komarev.com/ghpvc/?username=ABsatomiGamerYT&color=blue&label=views">
+  <img alt="counter" src="https://komarev.com/ghpvc/?username=ABsatomi159&color=blue&label=views">
   <br>
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABsatomiGamerYT&theme=dracula&column=7" alt="ABsatomiGamerYT" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABsatomi159&theme=dracula&column=7" alt="ABsatomi159" /></a> </p>
 
 <details>
   <summary>
@@ -49,4 +49,4 @@
 </p>
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/ABsatomi159/ABsatomi159/raw/main/assets/line-neon.gif" width="100%">
