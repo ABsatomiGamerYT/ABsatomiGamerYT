@@ -20,12 +20,6 @@
 
 > 🏙 Developer [Community](https://github.com/AB-HEART) organization
 
-<p align="center">
-  <a src="https://discord.com/users/302974869988179969">
-    <img align="center" src="https://lanyard.cnrad.dev/api/302974869988179969"/>
-  </a> 
-</p>
-
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABsatomiGamerYT&theme=dracula&column=7" alt="ABsatomiGamerYT" /></a> </p>
 
