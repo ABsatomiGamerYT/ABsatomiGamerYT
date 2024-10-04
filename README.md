@@ -10,7 +10,7 @@
   <br>
   <samp>
     <a href="https://twitter.com/ABsatomi159">twitter</a> •
-    <a href="https://twitch.tv/ABsatomi1590">twitch</a> 
+    <a href="https://twitch.tv/ab_haruki_16">twitch</a>
   </samp>
   <br>
   <br>
